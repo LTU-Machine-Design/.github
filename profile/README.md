@@ -24,7 +24,7 @@
 - ...
 
 ## 🚜 Autonomous forest vehicles
-See our research platforms hardare [here](Autonomous_forest_vehicles/Categorized_Hardware_List.md)
+Explore the hardware of our research platform [here](Autonomous_forest_vehicles/Categorized_Hardware_List.md)
 - 2025 [Erik Arvidsson](https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-112256), Offline Planning for Autonomous Forest Regeneration of Mixed Tree Species (Licentiate)
 - 2023 [Songyu Li](https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-101829), Vision based perception systems for unmanned forestry machines
 - 2022 [Saira Latif](https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-92246), Autonomous navigation of an articulated vehicle in agriculture (Licentiate)
