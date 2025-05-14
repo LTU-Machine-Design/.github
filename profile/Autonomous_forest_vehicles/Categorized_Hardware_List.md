@@ -1,3 +1,11 @@
+
+
+<img src="Skogforsk_savar_excursion_2022.jpg" width="800px"/>
+
+<em> Magnus Karlberg (left), Håkan Lideskog (second left), Morgan Rossander (third left, Skogforsk), and Torbjörn Lindbäck (right) are demonstrating the vehicle's capabilities for autonomous planting as part of the [Autoplant](https://www.skogforsk.se/projekt/autoplant/) project. Excursion at Skogforsk in Sävar, Sweden, 2022. </em>
+
+
+
  ## Hardware
 - In-house developed research platform
 - Cranab FC8 DT crane, Fully sensorized
@@ -36,5 +44,5 @@
     - Mevea (Digital Twin)
     - Unity
     - Matlab/Simulink
-    - ROS
+    - ROS & ROS2
 
